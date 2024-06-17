@@ -38,3 +38,8 @@ table, th, td {
 .alinha {
     text-align: center;
 }
+
+.overflow{
+    max-height: 550px;  
+    overflow-y: auto;
+}
